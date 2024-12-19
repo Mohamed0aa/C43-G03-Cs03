@@ -47,6 +47,12 @@ namespace assignmet
             //if(c=='a' || c == 'u'|| c == 'e' || c == 'I' || c == 'o') Console.WriteLine("vowel");
             //else Console.WriteLine("consonant");
             #endregion
+
+            #region q6 : Write a program that allows the user to insert an integer then print a multiplication table up to 12.
+            //int n = int.Parse(Console.ReadLine());
+            //for(int i=5;i<=n*12;i+=5)
+            //    Console.Write(i+" ");
+            #endregion
         }
     }
 }
