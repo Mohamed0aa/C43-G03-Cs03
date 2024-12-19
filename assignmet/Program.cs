@@ -77,6 +77,22 @@ namespace assignmet
             //percenrage=(total/500.0)*100;
             //Console.WriteLine($"total : {total}"+'\n'+$"avrage : {avg}"+'\n'+$"percentage : {percenrage}");
             #endregion
+
+            #region q9 : Create a program that asks the user to input three points (x1, y1), (x2, y2), and (x3, y3), and determines whether these points lie on a single straight line.
+            //double x1 = double.Parse(Console.ReadLine());
+            //double y1 = double.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Enter (x2, y2):");
+            //double x2 = double.Parse(Console.ReadLine());
+            //double y2 = double.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Enter (x3, y3):");
+            //double x3 = double.Parse(Console.ReadLine());
+            //double y3 = double.Parse(Console.ReadLine());
+
+            //if ((y2 - y1) / (x2 - x1) == (y3 - y2) / (x3 - x2)) Console.WriteLine("these points lie on a single straight line");
+            //else Console.WriteLine("NO");
+            #endregion
         }
     }
 }
