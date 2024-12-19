@@ -18,7 +18,24 @@ namespace assignmet
             //else Console.WriteLine("positive");
             #endregion
 
-            
+            #region q3 : Write a program that takes 3 integers from the user then prints the max element and the min element.
+            //int a=int.Parse(Console.ReadLine());
+            //int b = int.Parse(Console.ReadLine());
+            //int c = int.Parse(Console.ReadLine());
+            //int max,min;
+
+            //if (a > b && a>c) max=a;
+            //else if (b>a && b> c) max=b;
+            //else max=c;
+
+            //if (a <b && a < c) min = a;
+            //else if (b < a && b <c) min = b;
+            //else min = c;
+
+            //Console.WriteLine($"max element : {max}" + '\n' + $"min element: {min}");
+
+            #endregion
+
         }
     }
 }
