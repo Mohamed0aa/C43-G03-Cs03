@@ -63,6 +63,20 @@ namespace assignmet
 
             //Console.WriteLine(result);
             #endregion
+
+            #region q8 : Write a program to enter marks of five subjects and calculate total, average and percentage.
+            //int n1 = int.Parse(Console.ReadLine());
+            //int n2 = int.Parse(Console.ReadLine());
+            //int n3 = int.Parse(Console.ReadLine());
+            //int n4 = int.Parse(Console.ReadLine());
+            //int n5 = int.Parse(Console.ReadLine());
+            //int total;
+            // double percenrage, avg;
+            //total=n1+n2+n3+n4+n5;
+            //avg=total/5.0;
+            //percenrage=(total/500.0)*100;
+            //Console.WriteLine($"total : {total}"+'\n'+$"avrage : {avg}"+'\n'+$"percentage : {percenrage}");
+            #endregion
         }
     }
 }
