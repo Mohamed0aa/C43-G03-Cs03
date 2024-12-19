@@ -101,6 +101,17 @@ namespace assignmet
             //else if (hour <= 5) Console.WriteLine("training to enhance their speed.");
             //else Console.WriteLine("required to leave the company.");
             #endregion
+
+            #region q11 : Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+            //int x = 5;
+            //int y = x;
+            //x = 6;
+
+            ///*x updated to 6
+            // * y still 5 not updated
+            // */
+            #endregion
+
         }
     }
 }
