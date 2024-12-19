@@ -40,7 +40,12 @@ namespace assignmet
             //int n = int.Parse(Console.ReadLine());
             //if (n % 2 == 0) Console.WriteLine("even");
             //else Console.WriteLine("ood");
+            #endregion
 
+            #region q5 : Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant).
+            //char c = char.Parse(Console.ReadLine());
+            //if(c=='a' || c == 'u'|| c == 'e' || c == 'I' || c == 'o') Console.WriteLine("vowel");
+            //else Console.WriteLine("consonant");
             #endregion
         }
     }
