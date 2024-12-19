@@ -93,6 +93,14 @@ namespace assignmet
             //if ((y2 - y1) / (x2 - x1) == (y3 - y2) / (x3 - x2)) Console.WriteLine("these points lie on a single straight line");
             //else Console.WriteLine("NO");
             #endregion
+
+            #region q10 : calculate the efficiency of a worker, the time taken for the task is obtained via user input from the keyboard.
+            //int hour = int.Parse(Console.ReadLine());
+            //if (hour <= 3) Console.WriteLine("highly efficient");
+            //else if (hour <= 4) Console.WriteLine("instructed to increase their speed.");
+            //else if (hour <= 5) Console.WriteLine("training to enhance their speed.");
+            //else Console.WriteLine("required to leave the company.");
+            #endregion
         }
     }
 }
