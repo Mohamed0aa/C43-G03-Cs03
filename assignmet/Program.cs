@@ -53,6 +53,16 @@ namespace assignmet
             //for(int i=5;i<=n*12;i+=5)
             //    Console.Write(i+" ");
             #endregion
+
+            #region q7: Write a program that takes two integers then prints the power.
+            //int n=int.Parse(Console.ReadLine());
+            //int m = int.Parse(Console.ReadLine());
+            //int result=1;
+            //for (int i = 1; i <= m; i++)
+            //    result *= n;
+
+            //Console.WriteLine(result);
+            #endregion
         }
     }
 }
