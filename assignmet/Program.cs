@@ -112,7 +112,7 @@ namespace assignmet
             // */
             #endregion
 
-            #region q12 : Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+            #region q12 :Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
 
             //colour car1 = new colour();
             //colour car2 = new colour();
@@ -126,6 +126,17 @@ namespace assignmet
             ////modification is affect in both varible
             #endregion
 
+            #region q13 : (which is correct) Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+            //int d;
+            //d = Convert.ToInt32(!(30 < 20));
+            //Console.WriteLine(d);
+            ////A value 1 will be assigned to d.
+            #endregion
+
+            #region q14 :Which of the following is the correct output for the C# code given below?
+            //Console.WriteLine(13 / 2 + " " + 13 % 2);
+            ////6 1
+            #endregion
         }
     }
 }
