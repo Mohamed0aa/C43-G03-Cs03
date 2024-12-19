@@ -112,6 +112,20 @@ namespace assignmet
             // */
             #endregion
 
+            #region q12 : Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+
+            //colour car1 = new colour();
+            //colour car2 = new colour();
+            //car2 = car1;
+            //car1.name = "red";
+            //Console.WriteLine(" car1 = " + car1.name);
+            //Console.WriteLine(" car2 = " + car2.name);
+            //car1.name = "green";
+            //Console.WriteLine(" car1 = " + car1.name);
+            //Console.WriteLine(" car1 = " + car2.name);
+            ////modification is affect in both varible
+            #endregion
+
         }
     }
 }
